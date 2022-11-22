@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.33027.175
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Curso_Api6", "Curso_Api6.csproj", "{BF23B91D-B4FD-4516-A464-519DB84858EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF23B91D-B4FD-4516-A464-519DB84858EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF23B91D-B4FD-4516-A464-519DB84858EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF23B91D-B4FD-4516-A464-519DB84858EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF23B91D-B4FD-4516-A464-519DB84858EF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E15301FC-66CC-4683-BBA1-BF63D7D278FE}
+	EndGlobalSection
+EndGlobal
